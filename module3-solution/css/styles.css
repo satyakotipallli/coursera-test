@@ -76,6 +76,7 @@ body {
 }
 
 #categories-title {
+  margin-top:-10px;
   color: yellow;
 }
 #innertext {
